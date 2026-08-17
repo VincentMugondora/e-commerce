@@ -5,7 +5,7 @@ function App() {
   
   return (
     <>
-     <h1>Hellow World</h1>
+     <h1>This is an ecommerce app</h1>
     </>
   )
 }
