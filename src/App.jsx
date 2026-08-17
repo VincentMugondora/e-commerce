@@ -1,11 +1,14 @@
-import React from 'react'
+import Navbar from './components/Navbar'
 import './App.css'
 
 function App() {
-  
   return (
     <>
-     <h1>This is an ecommerce app</h1>
+      <Navbar />
+      <main id="center">
+        <h1>Welcome to ShopVince</h1>
+        <p>Discover amazing products at unbeatable prices.</p>
+      </main>
     </>
   )
 }
